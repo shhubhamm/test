@@ -1,4 +1,4 @@
 <?php
 print "Welcome";
-print `ifconfig`;
+print `ip a`;
 ?>
